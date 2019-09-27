@@ -1,0 +1,15 @@
+{
+    "name": "voliinyk/hexlet-first",
+    "description": "My first trial in hexlet",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Vladyslav Oliinyk",
+            "email": "blacks0n997@gmail.com"
+        }
+    ],
+    "bin": [
+        "bin/brain-games"
+    ],
+    "require": {}
+}
