@@ -1,7 +1,7 @@
 {
     "name": "voliinyk/hexlet-first",
     "description": "My first trial in hexlet",
-    "license": "priprietary",
+    "license": "proprietary",
     "type": "project",
     "minimum-stability": "dev",
     "prefer-stable": true,
