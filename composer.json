@@ -1,7 +1,10 @@
 {
     "name": "voliinyk/hexlet-first",
     "description": "My first trial in hexlet",
+    "license": "priprietary",
     "type": "project",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Vladyslav Oliinyk",
