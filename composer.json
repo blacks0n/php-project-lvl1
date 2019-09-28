@@ -2,7 +2,7 @@
     "name": "voliinyk/hexlet-first",
     "description": "My first trial in hexlet",
     "license": "proprietary",
-    "type": "project",
+    "type": "library",
     "minimum-stability": "dev",
     "prefer-stable": true,
     "authors": [
