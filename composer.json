@@ -14,10 +14,15 @@
     "bin": [
         "bin/brain-games"
     ],
-    "require": {},
+    "require": {
+        "wp-cli/php-cli-tools": "^0.11.11"
+    },
     "extra": {
         "branch-alias": {
             "dev-master": "1.0.x-dev"
         }
+    },
+    "autoload": {
+        "files": ["src/cli.php"]
     }
 }

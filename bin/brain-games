@@ -1,3 +1,7 @@
 #!/usr/bin/php
 <?php
-echo 'test';
+require '../vendor/autoload.php';
+
+use function myApp\src\run;
+
+run();
