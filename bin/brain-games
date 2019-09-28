@@ -1,6 +1,6 @@
 #!/usr/bin/php
 <?php
-require '../vendor/autoload.php';
+require '../autoload.php';
 
 use function myApp\src\run;
 
