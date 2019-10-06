@@ -1,4 +1,4 @@
 language: php
 
-before_script: 
+script: 
 - make lint
